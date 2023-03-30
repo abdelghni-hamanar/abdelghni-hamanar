@@ -11,6 +11,7 @@ I am Abdelghni Hamanar,I am currently an ALX Student. I am a tech enthusiast & a
 
 <p align="center">
     <a href="https://github.com/abdelghni-hamanar/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdelghni Hamanar" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdelghni-hamanar&theme=dark&border_radius=5)](https://git.io/streak-stats)"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdelghni Hamanar" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdelghni-hamanar&theme=dark&border_radius=5&type=png)](https://git.io/streak-stats)
+"/>
     </a>
 </p>
