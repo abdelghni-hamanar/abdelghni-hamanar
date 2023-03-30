@@ -11,6 +11,8 @@ I am Abdelghni Hamanar,I am currently an ALX Student. I am a tech enthusiast & a
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdelghni-hamanar&theme=dark&border_radius=5&type=png)](https://git.io/streak-stats)
 
+## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
