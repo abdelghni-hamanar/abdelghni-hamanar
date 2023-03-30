@@ -9,6 +9,8 @@ I am Abdelghni Hamanar,I am currently an ALX Student. I am a tech enthusiast & a
 - 🥅 2023 Goals: To be profficient in MERN Stack :|
 - ⚡ Fun fact: I love speaking with people, and sharing info about tech.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdelghni-hamanar-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelghni-hamanar" alt="abdelghni hamanar" /></a> </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdelghni-hamanar&border_radius=5&type=png)](https://git.io/streak-stats)
