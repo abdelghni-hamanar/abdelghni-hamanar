@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelghni</h1>
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
 I am Abdelghni Hamanar,I am currently an ALX Student. I am a tech enthusiast & a self learner.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
