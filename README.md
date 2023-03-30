@@ -82,6 +82,13 @@ I am Abdelghni Hamanar,I am currently an ALX Student. I am a tech enthusiast & a
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </span>
+	
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/abdelghni-hamanar-00613a23a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelghni hamanar" height="30" width="40" /></a>
+<a href="https://instagram.com/kougho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdelghni hamanar" height="30" width="40" /></a>
+<a href="https://discord.gg/Pëterpanda#8680" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Pëterpanda#8680" height="30" width="40" /></a>
+</p>	
   
   ## 🐍 Don't Let The Snake Eating Your Contributions Graph
 	
