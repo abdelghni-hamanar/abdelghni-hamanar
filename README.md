@@ -1,4 +1,7 @@
 <p align="center">
+	![Uploading Black-And-White-Futuristic-Gaming-Channel-Youtube-Intro-_2_.gif…]()
+</p>
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi%2C+I'm+Abdelghni+%E2%9C%8B" alt="Typing SVG" /></a>
 </p>
 
